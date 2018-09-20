@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537460870 source:c:\users\yljh2\documents\cplusplus_code_practice\singleton\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<mutex>
+
